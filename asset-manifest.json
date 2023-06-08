@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.30ec25ed.css",
+    "main.js": "/portfolio/static/js/main.bf884809.js",
+    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/HK.png": "/portfolio/static/media/HK.66f2ef500b645cf851fa.png",
+    "static/media/helal.jpeg": "/portfolio/static/media/helal.56aeb6319e2511701fd0.jpeg",
+    "index.html": "/portfolio/index.html",
+    "main.30ec25ed.css.map": "/portfolio/static/css/main.30ec25ed.css.map",
+    "main.bf884809.js.map": "/portfolio/static/js/main.bf884809.js.map",
+    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ec25ed.css",
+    "static/js/main.bf884809.js"
+  ]
+}
